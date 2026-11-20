@@ -1,0 +1,17 @@
+{
+  "name": "House of Fashion Nepal — Modeling & Talent Agency",
+  "short_name": "HOF Nepal",
+  "description": "An independent editorial fashion and commercial talent agency bridging Nepal’s creative ateliers with international fashion houses.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F1EA",
+  "theme_color": "#101010",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "SUTRA Management",
+  "description": "An independent editorial fashion and commercial talent agency bridging Nepal’s creative ateliers with international fashion houses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
